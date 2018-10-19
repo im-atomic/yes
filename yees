@@ -1,0 +1,4 @@
+if(
+  nutsack = yes
+    then die
+  else no
